@@ -1,1 +1,1 @@
-#Course 2#
+# COURSE 2 #
